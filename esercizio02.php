@@ -11,4 +11,6 @@
         echo "</tr>";
     }
     ?>
+</table>
+<p style="margin-top: 50px;"><a href="./index.php">Back to menu</a></p>
 
