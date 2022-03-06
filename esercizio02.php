@@ -12,5 +12,6 @@
     }
     ?>
 </table>
+<p>Stampa in una tabella i primi 255 caratteri ASCII, evitando i primi 32 e usando la funzione chr()</p>
 <p style="margin-top: 50px;"><a href="./index.php">Back to menu</a></p>
 
