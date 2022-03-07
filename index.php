@@ -15,6 +15,8 @@
         <tr><td class="cella"><a href="./patenti.php">patenti.php</a></td></tr>
         <tr><td class="cella"><a href="./esercizio01.php">esercizio01.php</a></td></tr>
         <tr><td class="cella"><a href="./esercizio02.php">esercizio02.php</a></td></tr>
+        <tr><td class="cella"><a href="./arraySomma.php">arraySomma.php</a></td></tr>
+        <tr><td class="cella"><a href="./arrayNumeri.php">arrayNumeri.php</a></td></tr>
     </table>
 
     <style>

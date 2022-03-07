@@ -14,7 +14,7 @@ for($i = 0; $i < count($array); $i++) {
     $somma += $array[$i];
 }
 
-echo "<p>Somma degli elementi dell'array: " .$somma . "</p>";
+echo "<p>Somma degli elementi dell'array: " .$somma . "</p><br>";
 
 /*
 function somma($array) {
@@ -30,4 +30,5 @@ function somma($array) {
 echo somma($array);
 */
 ?>
-
+<p>Esercizio: creare in una pagina dinamica un array di 5 numeri e calcolarne la somma</p>
+<p style="margin-top: 50px;"><a href="./index.php">Back to menu</a></p>
