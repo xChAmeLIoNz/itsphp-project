@@ -17,6 +17,10 @@
         <tr><td class="cella"><a href="./esercizio02.php">esercizio02.php</a></td></tr>
         <tr><td class="cella"><a href="./arraySomma.php">arraySomma.php</a></td></tr>
         <tr><td class="cella"><a href="./arrayNumeri.php">arrayNumeri.php</a></td></tr>
+        <tr><td class="cella"><a href="./tabelline.php">tabelline.php</a></td></tr>
+        <tr><td class="cella"><a href="./tabellaNumeri.php">tabellaNumeri.php</a></td></tr>
+        <tr><td class="cella"><a href="./calcoloEta.php">calcoloEta.php</a></td></tr>
+        <tr><td class="cella"><a href="./matrice.php">matrice.php</a></td></tr>
     </table>
 
     <style>
